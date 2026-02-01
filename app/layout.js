@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Harsh Yadav | Python Developer",
-  description: "Experienced Python Developer specializing in backend development, automation, and data analysis. Skilled in Django, Flask, FastAPI, and SQL.",
-  keywords: "Python Developer, Backend Developer, Django, Flask, FastAPI, SQL, Automation, Data Analysis, Harsh Yadav",
+  description: "Experienced Python Developer specializing in backend development, automation, and data analysis. Skilled in Flask, FastAPI, and SQL.",
+  keywords: "Python Developer, Backend Developer, Flask, FastAPI, SQL, Automation, Data Analysis, Harsh Yadav",
   author: "Harsh Yadav",
 };
 
